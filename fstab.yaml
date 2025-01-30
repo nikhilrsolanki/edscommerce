@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1NXGiy--HB2mRcRksyOjt89cKAb4w-mkr
+  /: https://adobe.sharepoint.com/:f:/r/sites/edscommerce/Shared%20Documents/edssample/eds-commerce-storefront?csf=1&web=1&e=68UsMg
 
 folders:
   /products/: /products/default
